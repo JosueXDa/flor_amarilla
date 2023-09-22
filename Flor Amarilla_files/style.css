@@ -27,7 +27,10 @@ body {
         align-items: center;
     }
 }
-
+marquee{
+    color: white;
+    font-size: 30px;
+}
 .flower_wrapper{
     position: absolute;
     left: 50%;
@@ -359,6 +362,7 @@ body {
         font-weight: 400;
         text-align: justify;
     }
+   
 }
 
 
